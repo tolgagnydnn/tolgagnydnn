@@ -9,7 +9,7 @@
 <p align="left">
 <a href="https://codepen.io/tolgagnydnn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="tolgagnydnn" height="30" width="40" /></a>
 <a href="https://dev.to/tolgagnydnn" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="tolgagnydnn" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/olga-günaydın-304993177" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tolga günaydın" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/tolga-günaydın-304993177/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tolga günaydın" height="30" width="40" /></a>
 <a href="https://codesandbox.com/tolgagnydnn" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="tolgagnydnn" height="30" width="40" /></a>
 </p>
 
